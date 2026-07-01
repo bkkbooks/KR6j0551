@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0551/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 瑜伽集要焰口施食儀
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1320.xml
+    old_id: T21n1320
+hash: sha256:e2dfd494b301e62c789a17218311526224e4ecc6f639aa714c31d216b5a65bf8

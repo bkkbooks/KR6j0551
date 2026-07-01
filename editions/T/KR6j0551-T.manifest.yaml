@@ -1,0 +1,108 @@
+canonical_identifier: bkk:krp/KR6j0551/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0551/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 瑜伽集要焰口施食儀
+  identifiers:
+    krp: KR6j0551
+    cbeta: T21n1320
+    cbeta_old_id: T21n1320
+    authorityid: CA0003821
+    json_key: T1320
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1320.xml
+    old_id: T21n1320
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0551_000-T.yaml, hash: 'sha256:e2dfd494b301e62c789a17218311526224e4ecc6f639aa714c31d216b5a65bf8'}
+  - {seq: 1, filename: KR6j0551_001-T.yaml, hash: 'sha256:997f4420590cf08f99d9a8d7a4194ca1bb71d33adf472f20cfc9924f48cb16e9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0551_000-T.markers.yaml, hash: 'sha256:c1b68d4533122ddf66d87fe8e36097f08de2e02e397c6b257bbe80469d0ee82f'}
+  - {seq: 1, role: markers, filename: assets/KR6j0551_001-T.markers.yaml, hash: 'sha256:d158d4a30a4fa1a582bca3bfe12bce44cb7ce63dade7cc4fc10aab1c45cff19d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0551_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 11859
+  label: 瑜伽集要熖口施食儀
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0551_T_001-mulu-1
+    span:
+    - body
+    - 8600
+    - 8600
+  label: 佛頂尊勝陀羅尼神咒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0551_T_001-mulu-2
+    span:
+    - body
+    - 9449
+    - 9449
+  label: 六趣偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0551_T_001-mulu-3
+    span:
+    - body
+    - 9804
+    - 9804
+  label: 發願回向偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0551_T_001-mulu-4
+    span:
+    - body
+    - 10409
+    - 10409
+  label: 吉祥偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0551_T_001-mulu-5
+    span:
+    - body
+    - 10497
+    - 10497
+  label: 金剛薩埵百字咒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0551_T_001-mulu-6
+    span:
+    - body
+    - 10702
+    - 10702
+  label: 十類孤魂文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0551_T_001-mulu-7
+    span:
+    - body
+    - 11633
+    - 11633
+  label: 三歸依讚
+  type: mulu
+  level: 1
+hash: sha256:9c36d676fa9191ac983626ff979d0b6ac9efbd257dbcbf84e9ceb81d74feeb7f
